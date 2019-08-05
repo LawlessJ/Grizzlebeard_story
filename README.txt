@@ -1,0 +1,3 @@
+This code is modeled after codeacademy project. It utilizes a TreeNode data structure and a while loop to traverse the nodes, displaying their story elements, prompting the user for input, and indexing the correct child node.
+
+To begin the program, open your terminal and navigate to the script's working directory. Then simply type "python3 script.py" to execute the program. It should prompt you to give your name, and begin the story. When the story is complete, you will be prompted to play again if desired.
